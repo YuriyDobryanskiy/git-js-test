@@ -8,7 +8,8 @@ let person={
     [age]:30,
     [pass]:'dcwe',
     weight:60,
-    sex:'men'
+    sex:'male',
+	height:170
 }
 
 console.log(person);
