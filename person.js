@@ -6,7 +6,8 @@ let pass;
 let person={
     [name]:'john',
     [age]:30,
-    [pass]:'dcwe'
+    [pass]:'dcwe',
+    weight:60
 }
 
 console.log(person);
