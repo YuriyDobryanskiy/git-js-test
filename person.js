@@ -7,7 +7,8 @@ let person={
     [name]:'john',
     [age]:30,
     [pass]:'dcwe',
-    weight:60
+    weight:60,
+    sex:'men'
 }
 
 console.log(person);
